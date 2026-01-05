@@ -17,6 +17,7 @@ After all it seems that SIMD usage isn't a crucial factor for performance. After
 I don't want to work more on this project, so I leave it as is.
 
 iterative FFT wasn't optimized after with naive implementation, so there is still room for improvements.
+
 ---
 
 Solution was inspired by this repository:
